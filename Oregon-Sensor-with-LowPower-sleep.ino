@@ -1,4 +1,4 @@
-   /* 5uA low power Oregon encoder with DHT AM2302/AM2330 sensor.
+   /* 4.5uA low power Oregon encoder with DHT AM2302/AM2330 sensor.
     *  
     * LOW POWER:
     * Arduino pro mini 3.3v 8M. removed regulator + power led/resistor. Thats it. (enhanced version from Ebay)
